@@ -1,0 +1,52 @@
+body{
+    background-color:floralwhite;
+}
+
+.lilita-one-regular {
+  font-family: "Lilita One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+.header{
+    background-color:rgb(238, 226, 62);
+    height: 70px;
+    margin: -19px -56px -10px -10px;
+    color: beige;
+    text-align: center;
+    padding-top: 10px ;
+    font-family: "Lilita One", sans-serif;
+    text-shadow:  2px 1px 1px black;
+}
+
+.personal{
+    width: 200px;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin-top: 29px;
+    background-color:rgba(247, 241, 149, 0.93);
+    border-radius: 20px;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.finance{
+    width: 200px;
+    height: 90px;
+    display: flex;
+    margin-left: 250px;
+    margin-top: -107px;
+    justify-content: center;
+    padding: 10px;
+    background-color:rgba(247, 241, 149, 0.93);
+    border-radius: 20px;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+
